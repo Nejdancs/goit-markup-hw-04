@@ -368,14 +368,8 @@ img {
   line-height: 1.19;
 }
 
-.social-link {
+.team-social-link {
   color: #afb1b8;
-}
-
-.social-link:hover,
-.social-link:focus {
-  background-color: var(--accent-color);
-  color: #ffffff;
 }
 
 /* Clients
