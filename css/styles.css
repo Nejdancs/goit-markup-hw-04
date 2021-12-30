@@ -205,7 +205,7 @@ img {
 ================================== */
 
 .section-hero {
-  background-color: #c4c4c4;
+  background-color: #2f303a;
   text-align: center;
 }
 
@@ -535,7 +535,7 @@ img {
 .footer-contact-link,
 .footer-address-link {
   font-style: normal;
-  line-height: 1.71;
+  line-height: 1.5;
 }
 
 .footer-address-link {
